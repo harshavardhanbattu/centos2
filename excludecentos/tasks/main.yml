@@ -1,0 +1,3 @@
+---
+# tasks file for excludecentos
+- include_tasks: exculde.yml
